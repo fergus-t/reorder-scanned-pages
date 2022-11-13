@@ -9,7 +9,7 @@ function organizepages() {
     for(i = 0; i < numofOddPages; i++) {
         this.movePage(numofPages-1, i*2);
     }
-    app.alert("Page order swapped!");
+    app.alert("Page order swapped!", 3);
     return "Success";
 }
 organizepages();
