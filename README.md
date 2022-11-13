@@ -23,6 +23,9 @@ This short script for adobe acrobat pro reorders double-sided document scanned w
 # How to run:
 1. Go to "Action Wizard"
 2. There should be a newly created function under "CUSTOM COMMANDS" on the right.
+3. Click on the function (it will be named whatever you named it in step 6 above.
+4. Document pages will be reordered automatically.
+5. Click "Save" to save the re-ordered document.
 
 
 # Example of scanned PDF page order for 5 pages of double-sided document (10 sides):
